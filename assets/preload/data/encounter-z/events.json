@@ -1,0 +1,834 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "mandela",
+		"player1": "mark",
+		"player2": "cesar",
+		"player3": null,
+		"events": [
+			[
+				32178.7709497207,
+				[
+					[
+						"Black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34860.3351955307,
+				[
+					[
+						"Remove black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34863.8268156425,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"N"
+					]
+				]
+			],
+			[
+				65698.3240223465,
+				[
+					[
+						"Black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67039.1061452515,
+				[
+					[
+						"Remove black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				126033.519553073,
+				[
+					[
+						"Black screen",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"Gabriel pov"
+					]
+				]
+			],
+			[
+				131396.648044693,
+				[
+					[
+						"Remove black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131400.139664805,
+				[
+					[
+						"Black bg",
+						"",
+						""
+					]
+				]
+			],
+			[
+				163575.418994413,
+				[
+					[
+						"Remove black bg",
+						"",
+						""
+					]
+				]
+			],
+			[
+				163578.910614525,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"N"
+					]
+				]
+			],
+			[
+				179664.804469274,
+				[
+					[
+						"Black bg",
+						"",
+						""
+					]
+				]
+			],
+			[
+				181005.586592179,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Gabriel"
+					]
+				]
+			],
+			[
+				182346.368715084,
+				[
+					[
+						"Change Character",
+						"dad",
+						"N"
+					]
+				]
+			],
+			[
+				185027.932960894,
+				[
+					[
+						"Remove black bg",
+						"",
+						""
+					]
+				]
+			],
+			[
+				185031.424581005,
+				[
+					[
+						"Flash Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				206480.446927374,
+				[
+					[
+						"Black bg",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				206483.938547486,
+				[
+					[
+						"Flash Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				208240.223463687,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				208271.648044692,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				208491.620111731,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				208659.217877095,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				210000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				210062.849162011,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				211571.229050279,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				211613.12849162,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				211655.027932961,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				211696.927374301,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				211738.826815642,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				211780.726256983,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				211812.150837988,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				211833.100558659,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				215865.921787709,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				216578.212290502,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				216662.011173184,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				216745.810055865,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				216829.608938547,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				217206.703910614,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				227932.960893854,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				228687.150837988,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				228938.547486033,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				229692.737430167,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				237318.435754189,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				237402.234636871,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				237486.033519552,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				237527.932960893,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				237569.832402234,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				237590.782122904,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				237611.731843575,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				237632.681564245,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				237653.631284916,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				237674.581005586,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				237695.530726256,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				237716.480446927,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				237737.430167597,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				237758.379888268,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cesar"
+					]
+				]
+			],
+			[
+				237779.329608938,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Alternate"
+					]
+				]
+			],
+			[
+				248044.692737429,
+				[
+					[
+						"Play Animation",
+						"pissbaby",
+						"bf"
+					]
+				]
+			],
+			[
+				249385.474860334,
+				[
+					[
+						"Remove black bg",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"N"
+					]
+				]
+			],
+			[
+				249388.966480446,
+				[
+					[
+						"Flash Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				273519.553072625,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				273854.748603351,
+				[
+					[
+						"Black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				274189.944134077,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				274193.435754189,
+				[
+					[
+						"Remove black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				274525.139664804,
+				[
+					[
+						"Black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				274860.33519553,
+				[
+					[
+						"Remove black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				284245.810055865,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				284245.810055865,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				284581.005586591,
+				[
+					[
+						"Black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				284581.005586591,
+				[
+					[
+						"Black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				284916.201117317,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				284916.201117317,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				284919.692737429,
+				[
+					[
+						"Remove black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				284919.692737429,
+				[
+					[
+						"Remove black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				285251.396648044,
+				[
+					[
+						"Black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				285251.396648044,
+				[
+					[
+						"Black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				285586.59217877,
+				[
+					[
+						"Remove black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				294972.067039105,
+				[
+					[
+						"Flash Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				294972.067039105,
+				[
+					[
+						"Black screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				294975.558659217,
+				[
+					[
+						"Flash_Camera_Red",
+						"0.8",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 179,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "encounter-z"
+	}
+}
