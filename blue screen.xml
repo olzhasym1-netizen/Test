@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blue screen.png">
+<SubTexture name="blue screen0000" x="0" y="0" width="834" height="563" frameX="-43" frameY="-39" frameWidth="921" frameHeight="642" />
+<SubTexture name="blue screen0001" x="834" y="563" width="834" height="563" frameX="-43" frameY="-39" frameWidth="921" frameHeight="642" />
+<SubTexture name="blue screen0002" x="834" y="0" width="834" height="563" frameX="-43" frameY="-39" frameWidth="921" frameHeight="642" />
+<SubTexture name="blue screen0003" x="0" y="563" width="834" height="563" frameX="-43" frameY="-39" frameWidth="921" frameHeight="642" />
+</TextureAtlas>
