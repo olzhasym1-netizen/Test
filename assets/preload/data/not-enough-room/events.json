@@ -1,0 +1,179 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "NoRoom",
+		"player1": "Encounter",
+		"player2": "Gift",
+		"player3": null,
+		"events": [
+			[
+				32000,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"Gift Alt"
+					],
+					[
+						"Change Character",
+						"bf",
+						"Encounter Alt"
+					]
+				]
+			],
+			[
+				53333.3333333334,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				74666.6666666667,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"Encounter"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Gift"
+					]
+				]
+			],
+			[
+				106666.666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Gift Alt"
+					],
+					[
+						"Change Character",
+						"bf",
+						"Encounter Alt"
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"Gift"
+					],
+					[
+						"Change Character",
+						"bf",
+						"Encounter"
+					]
+				]
+			],
+			[
+				171000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Encounter Alt"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Gift Alt"
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				176333.333333333,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"Gift"
+					],
+					[
+						"Change Character",
+						"bf",
+						"Encounter"
+					]
+				]
+			],
+			[
+				181666.666666667,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Encounter Alt"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Gift Alt"
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				192333.333333334,
+				[
+					[
+						"Black screen",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "not-enough-room"
+	}
+}
