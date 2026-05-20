@@ -1,0 +1,367 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ThinkC.png">
+<SubTexture name="Freakout0000" x="1528" y="993" width="215" height="246" frameX="-100" frameY="-64" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0001" x="1528" y="993" width="215" height="246" frameX="-100" frameY="-64" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0002" x="241" y="1813" width="254" height="230" frameX="-61" frameY="-83" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0003" x="241" y="1813" width="254" height="230" frameX="-61" frameY="-83" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0004" x="2150" y="2046" width="260" height="210" frameX="-52" frameY="-106" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0005" x="2150" y="2046" width="260" height="210" frameX="-52" frameY="-106" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0006" x="1021" y="2271" width="248" height="188" frameX="-64" frameY="-168" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0007" x="1021" y="2271" width="248" height="188" frameX="-64" frameY="-168" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0008" x="2467" y="803" width="239" height="184" frameX="-75" frameY="-173" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0009" x="2467" y="803" width="239" height="184" frameX="-75" frameY="-173" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0010" x="1645" y="2271" width="246" height="182" frameX="-66" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0011" x="1645" y="2271" width="246" height="182" frameX="-66" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0012" x="1891" y="2271" width="250" height="182" frameX="-61" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0013" x="1891" y="2271" width="250" height="182" frameX="-61" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0014" x="2142" y="2271" width="249" height="182" frameX="-64" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0015" x="2142" y="2271" width="249" height="182" frameX="-64" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0016" x="2467" y="618" width="236" height="185" frameX="-77" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0017" x="2467" y="618" width="236" height="185" frameX="-77" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0018" x="2467" y="987" width="238" height="184" frameX="-75" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0019" x="2467" y="987" width="238" height="184" frameX="-75" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0020" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0021" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0022" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0023" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0024" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0025" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0026" x="0" y="2271" width="266" height="199" frameX="-46" frameY="-159" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0027" x="0" y="2271" width="266" height="199" frameX="-46" frameY="-159" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0028" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0029" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0030" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0031" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0032" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0033" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0034" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0035" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0036" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0037" x="0" y="2470" width="255" height="177" frameX="-82" frameY="-148" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0038" x="0" y="2470" width="255" height="177" frameX="-82" frameY="-148" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0039" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0040" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0041" x="1992" y="1143" width="226" height="226" frameX="-79" frameY="-83" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0042" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0043" x="465" y="0" width="212" height="258" frameX="-116" frameY="-37" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0044" x="1270" y="2271" width="375" height="183" frameX="0" frameY="-199" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0045" x="2467" y="1171" width="241" height="183" frameX="-71" frameY="-160" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0046" x="2391" y="2271" width="252" height="182" frameX="-59" frameY="-155" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0047" x="2391" y="2271" width="252" height="182" frameX="-59" frameY="-155" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0048" x="218" y="1326" width="275" height="246" frameX="-33" frameY="-93" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0049" x="218" y="1326" width="275" height="246" frameX="-33" frameY="-93" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0050" x="206" y="315" width="264" height="254" frameX="-49" frameY="-61" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0051" x="206" y="315" width="264" height="254" frameX="-49" frameY="-61" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0052" x="207" y="0" width="258" height="294" frameX="-133" frameY="-20" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0053" x="207" y="0" width="258" height="294" frameX="-133" frameY="-20" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0054" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0055" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0056" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0057" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0058" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0059" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0060" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0061" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0062" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0063" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0064" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0065" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0066" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0067" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0068" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0069" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0070" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0071" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0072" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0073" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0074" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0075" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0076" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0077" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0078" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0079" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0080" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0081" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0082" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0083" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0084" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0085" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0086" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0087" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0088" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0089" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0090" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0091" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0092" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0093" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0094" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0095" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0096" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0097" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0098" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0099" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0100" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0101" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0102" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0103" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0104" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0105" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0106" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0107" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0108" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0109" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0110" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0111" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0112" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0113" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0114" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0115" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0116" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0117" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0118" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0119" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0120" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0121" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0122" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0123" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Freakout0124" x="0" y="0" width="207" height="315" frameX="-114" frameY="0" frameWidth="391" frameHeight="382" />
+<SubTexture name="Risk0000" x="677" y="0" width="213" height="253" frameX="-43" frameY="0" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0001" x="0" y="573" width="217" height="253" frameX="-38" frameY="0" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0002" x="0" y="1076" width="225" height="249" frameX="-29" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0003" x="940" y="1326" width="235" height="245" frameX="-18" frameY="-9" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0004" x="1757" y="0" width="235" height="242" frameX="-19" frameY="-12" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0005" x="254" y="1572" width="238" height="239" frameX="-16" frameY="-15" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0006" x="492" y="1572" width="239" height="239" frameX="-15" frameY="-15" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0007" x="492" y="1572" width="239" height="239" frameX="-15" frameY="-15" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0008" x="731" y="1572" width="239" height="239" frameX="-15" frameY="-15" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0009" x="731" y="1572" width="239" height="239" frameX="-15" frameY="-15" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0010" x="731" y="1572" width="239" height="239" frameX="-15" frameY="-15" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0011" x="731" y="1572" width="239" height="239" frameX="-15" frameY="-15" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0012" x="1398" y="1326" width="228" height="243" frameX="-25" frameY="-11" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0013" x="1398" y="1326" width="228" height="243" frameX="-25" frameY="-11" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0014" x="0" y="1813" width="241" height="233" frameX="-17" frameY="-20" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0015" x="0" y="1813" width="241" height="233" frameX="-17" frameY="-20" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0016" x="716" y="2046" width="239" height="224" frameX="-19" frameY="-30" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0017" x="716" y="2046" width="239" height="224" frameX="-19" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0018" x="716" y="2046" width="239" height="224" frameX="-19" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0019" x="716" y="2046" width="239" height="224" frameX="-19" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0020" x="716" y="2046" width="239" height="224" frameX="-19" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0021" x="716" y="2046" width="239" height="224" frameX="-19" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0022" x="716" y="2046" width="239" height="224" frameX="-19" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0023" x="716" y="2046" width="239" height="224" frameX="-19" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0024" x="716" y="2046" width="239" height="224" frameX="-19" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0025" x="716" y="2046" width="239" height="224" frameX="-19" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0026" x="955" y="2046" width="239" height="224" frameX="-19" frameY="-30" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0027" x="1194" y="2046" width="239" height="224" frameX="-19" frameY="-30" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0028" x="1433" y="2046" width="239" height="224" frameX="-19" frameY="-30" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0029" x="0" y="2046" width="238" height="224" frameX="-20" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0030" x="0" y="2046" width="238" height="224" frameX="-20" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0031" x="1672" y="2046" width="239" height="224" frameX="-19" frameY="-30" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0032" x="1911" y="2046" width="239" height="224" frameX="-19" frameY="-30" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0033" x="967" y="1813" width="237" height="225" frameX="-21" frameY="-28" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0034" x="1205" y="1813" width="237" height="225" frameX="-21" frameY="-28" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0035" x="1205" y="1813" width="237" height="225" frameX="-21" frameY="-28" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0036" x="238" y="2046" width="239" height="224" frameX="-19" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0037" x="477" y="2046" width="239" height="224" frameX="-19" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0038" x="1992" y="462" width="234" height="227" frameX="-24" frameY="-27" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0039" x="1992" y="462" width="234" height="227" frameX="-23" frameY="-27" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0040" x="1442" y="1813" width="238" height="225" frameX="-20" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0041" x="1442" y="1813" width="238" height="225" frameX="-20" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0042" x="1680" y="1813" width="238" height="225" frameX="-20" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0043" x="1918" y="1813" width="238" height="225" frameX="-20" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0044" x="1992" y="689" width="234" height="227" frameX="-24" frameY="-27" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0045" x="1992" y="916" width="234" height="227" frameX="-24" frameY="-27" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0046" x="2229" y="0" width="237" height="225" frameX="-21" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0047" x="2229" y="225" width="237" height="225" frameX="-21" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0048" x="2229" y="225" width="237" height="225" frameX="-21" frameY="-28" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0049" x="2229" y="450" width="237" height="225" frameX="-21" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0050" x="1992" y="1370" width="236" height="226" frameX="-22" frameY="-28" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0051" x="1992" y="1370" width="236" height="226" frameX="-22" frameY="-28" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0052" x="1992" y="235" width="233" height="227" frameX="-25" frameY="-26" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0053" x="2229" y="675" width="237" height="225" frameX="-21" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0054" x="495" y="1813" width="236" height="226" frameX="-22" frameY="-28" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0055" x="731" y="1813" width="236" height="226" frameX="-22" frameY="-28" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0056" x="2229" y="900" width="237" height="225" frameX="-21" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0057" x="2229" y="1125" width="237" height="225" frameX="-21" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0058" x="2229" y="1350" width="237" height="225" frameX="-21" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0059" x="2229" y="1350" width="237" height="225" frameX="-21" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0060" x="2229" y="1350" width="237" height="225" frameX="-21" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0061" x="2229" y="1350" width="237" height="225" frameX="-21" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0062" x="2229" y="1350" width="237" height="225" frameX="-21" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0063" x="2229" y="1350" width="237" height="225" frameX="-21" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0064" x="2467" y="0" width="242" height="210" frameX="-13" frameY="-43" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0065" x="2467" y="210" width="242" height="210" frameX="-13" frameY="-43" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0066" x="266" y="2271" width="255" height="199" frameX="0" frameY="-56" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0067" x="521" y="2271" width="255" height="199" frameX="0" frameY="-56" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0068" x="776" y="2271" width="245" height="198" frameX="-12" frameY="-55" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0069" x="776" y="2271" width="245" height="198" frameX="-12" frameY="-55" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0070" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0071" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0072" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0073" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0074" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0075" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0076" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0077" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0078" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0079" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0080" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0081" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0082" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0083" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0084" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0085" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0086" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0087" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0088" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0089" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0090" x="2467" y="421" width="231" height="197" frameX="-24" frameY="-57" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0091" x="2229" y="1799" width="232" height="214" frameX="-23" frameY="-40" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0092" x="2229" y="1799" width="232" height="214" frameX="-23" frameY="-40" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0093" x="2229" y="1799" width="232" height="214" frameX="-23" frameY="-40" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0094" x="2229" y="1575" width="229" height="224" frameX="-26" frameY="-29" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0095" x="1757" y="721" width="227" height="239" frameX="-28" frameY="-15" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0096" x="1757" y="960" width="227" height="239" frameX="-28" frameY="-15" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0097" x="890" y="502" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0098" x="0" y="826" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0099" x="0" y="826" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0100" x="212" y="826" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0101" x="212" y="826" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0102" x="425" y="826" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0103" x="637" y="826" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0104" x="637" y="826" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0105" x="637" y="826" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0106" x="850" y="826" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0107" x="1103" y="0" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0108" x="1103" y="0" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0109" x="1103" y="250" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0110" x="1103" y="500" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0111" x="1103" y="250" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0112" x="1103" y="750" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0113" x="1103" y="750" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0114" x="1316" y="0" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0115" x="1316" y="0" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0116" x="1316" y="250" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0117" x="1316" y="500" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0118" x="1316" y="500" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0119" x="1316" y="500" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0120" x="1316" y="750" width="212" height="250" frameX="-43" frameY="-4" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0121" x="890" y="0" width="213" height="251" frameX="-49" frameY="-3" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0122" x="890" y="251" width="213" height="251" frameX="-49" frameY="-3" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0123" x="857" y="1076" width="241" height="248" frameX="-14" frameY="-5" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0124" x="1098" y="1076" width="241" height="248" frameX="-14" frameY="-5" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0125" x="0" y="1572" width="254" height="240" frameX="-1" frameY="-17" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0126" x="970" y="1572" width="254" height="237" frameX="-1" frameY="-17" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0127" x="1677" y="1572" width="237" height="235" frameX="-18" frameY="-19" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0128" x="1992" y="0" width="237" height="235" frameX="-18" frameY="-19" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0129" x="1757" y="1199" width="229" height="238" frameX="-28" frameY="-16" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0130" x="1757" y="1199" width="229" height="238" frameX="-28" frameY="-16" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0131" x="1757" y="1199" width="229" height="238" frameX="-28" frameY="-16" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0132" x="1757" y="1199" width="229" height="238" frameX="-28" frameY="-16" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0133" x="1757" y="1199" width="229" height="238" frameX="-28" frameY="-16" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0134" x="1757" y="482" width="227" height="239" frameX="-28" frameY="-14" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0135" x="1757" y="482" width="227" height="239" frameX="-28" frameY="-14" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0136" x="1460" y="1572" width="217" height="237" frameX="-38" frameY="-17" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0137" x="1460" y="1572" width="217" height="237" frameX="-38" frameY="-16" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0138" x="493" y="1326" width="218" height="246" frameX="-38" frameY="-8" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0139" x="493" y="1326" width="218" height="246" frameX="-38" frameY="-8" frameWidth="262" frameHeight="257" />
+<SubTexture name="Risk0140" x="677" y="0" width="213" height="253" frameX="-43" frameY="0" frameWidth="262" frameHeight="257" />
+<SubTexture name="ThinkC Down0000" x="1175" y="1326" width="222" height="245" frameX="0" frameY="-5" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0001" x="1175" y="1326" width="222" height="245" frameX="0" frameY="-5" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0002" x="0" y="1326" width="218" height="246" frameX="-2" frameY="-2" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0003" x="0" y="1326" width="218" height="246" frameX="-2" frameY="-2" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0004" x="1528" y="745" width="218" height="248" frameX="-3" frameY="0" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0005" x="1528" y="745" width="218" height="248" frameX="-3" frameY="0" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0006" x="1528" y="745" width="218" height="248" frameX="-3" frameY="0" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0007" x="1528" y="745" width="218" height="248" frameX="-3" frameY="0" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0008" x="1528" y="745" width="218" height="248" frameX="-3" frameY="0" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0009" x="1528" y="745" width="218" height="248" frameX="-3" frameY="0" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0010" x="1528" y="745" width="218" height="248" frameX="-3" frameY="0" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0011" x="1528" y="745" width="218" height="248" frameX="-3" frameY="0" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0012" x="1528" y="745" width="218" height="248" frameX="-3" frameY="0" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0013" x="1528" y="745" width="218" height="248" frameX="-3" frameY="0" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0014" x="1528" y="745" width="218" height="248" frameX="-3" frameY="0" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0015" x="1528" y="745" width="218" height="248" frameX="-3" frameY="0" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Down0016" x="1528" y="745" width="218" height="248" frameX="-3" frameY="0" frameWidth="223" frameHeight="250" />
+<SubTexture name="ThinkC Idle0000" x="1224" y="1572" width="236" height="237" frameX="0" frameY="-19" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0001" x="1224" y="1572" width="236" height="237" frameX="0" frameY="-19" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0002" x="1224" y="1572" width="236" height="237" frameX="0" frameY="-19" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0003" x="1224" y="1572" width="236" height="237" frameX="0" frameY="-19" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0004" x="1757" y="242" width="233" height="240" frameX="-1" frameY="-16" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0005" x="1757" y="242" width="233" height="240" frameX="-1" frameY="-16" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0006" x="1757" y="242" width="233" height="240" frameX="-1" frameY="-16" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0007" x="711" y="1326" width="228" height="245" frameX="-5" frameY="-10" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0008" x="711" y="1326" width="228" height="245" frameX="-5" frameY="-10" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0009" x="711" y="1326" width="228" height="245" frameX="-5" frameY="-10" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0010" x="217" y="573" width="218" height="253" frameX="-15" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0011" x="217" y="573" width="218" height="253" frameX="-15" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0012" x="217" y="573" width="218" height="253" frameX="-15" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0013" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0014" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0015" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0016" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0017" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0018" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0019" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0020" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0021" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0022" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0023" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0024" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0025" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0026" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0027" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0028" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Idle0029" x="677" y="253" width="213" height="253" frameX="-20" frameY="-1" frameWidth="236" frameHeight="257" />
+<SubTexture name="ThinkC Left0000" x="1528" y="0" width="228" height="248" frameX="0" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0001" x="1528" y="0" width="228" height="248" frameX="0" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0002" x="1528" y="248" width="226" height="248" frameX="-5" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0003" x="1528" y="248" width="226" height="248" frameX="-5" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0004" x="1528" y="497" width="219" height="248" frameX="-13" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0005" x="1528" y="497" width="219" height="248" frameX="-13" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0006" x="1528" y="497" width="219" height="248" frameX="-13" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0007" x="1528" y="497" width="219" height="248" frameX="-13" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0008" x="1528" y="497" width="219" height="248" frameX="-13" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0009" x="1528" y="497" width="219" height="248" frameX="-13" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0010" x="1528" y="497" width="219" height="248" frameX="-13" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0011" x="1528" y="497" width="219" height="248" frameX="-13" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0012" x="1528" y="497" width="219" height="248" frameX="-13" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0013" x="1528" y="497" width="219" height="248" frameX="-13" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0014" x="1528" y="497" width="219" height="248" frameX="-13" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0015" x="1528" y="497" width="219" height="248" frameX="-13" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Left0016" x="1528" y="497" width="219" height="248" frameX="-13" frameY="-1" frameWidth="232" frameHeight="249" />
+<SubTexture name="ThinkC Right0000" x="225" y="1076" width="209" height="249" frameX="-14" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0001" x="225" y="1076" width="209" height="249" frameX="-14" frameY="-1	" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0002" x="434" y="1076" width="209" height="249" frameX="-6" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0003" x="434" y="1076" width="209" height="249" frameX="-6" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0004" x="643" y="1076" width="213" height="249" frameX="0" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0005" x="643" y="1076" width="213" height="249" frameX="0" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0006" x="643" y="1076" width="213" height="249" frameX="0" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0007" x="643" y="1076" width="213" height="249" frameX="0" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0008" x="643" y="1076" width="213" height="249" frameX="0" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0009" x="643" y="1076" width="213" height="249" frameX="0" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0010" x="643" y="1076" width="213" height="249" frameX="0" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0011" x="643" y="1076" width="213" height="249" frameX="0" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0012" x="643" y="1076" width="213" height="249" frameX="0" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0013" x="643" y="1076" width="213" height="249" frameX="0" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0014" x="643" y="1076" width="213" height="249" frameX="0" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0015" x="643" y="1076" width="213" height="249" frameX="0" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Right0016" x="643" y="1076" width="213" height="249" frameX="0" frameY="-1" frameWidth="223" frameHeight="249" />
+<SubTexture name="ThinkC Up0000" x="0" y="315" width="206" height="258" frameX="-1" frameY="0" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0001" x="0" y="315" width="206" height="258" frameX="-1" frameY="0" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0002" x="435" y="573" width="208" height="252" frameX="0" frameY="-7" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0003" x="435" y="573" width="208" height="252" frameX="0" frameY="-6" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0004" x="644" y="573" width="209" height="251" frameX="0" frameY="-8" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0005" x="644" y="573" width="209" height="251" frameX="0" frameY="-8" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0006" x="644" y="573" width="209" height="251" frameX="0" frameY="-8" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0007" x="644" y="573" width="209" height="251" frameX="0" frameY="-8" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0008" x="644" y="573" width="209" height="251" frameX="0" frameY="-8" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0009" x="644" y="573" width="209" height="251" frameX="0" frameY="-8" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0010" x="644" y="573" width="209" height="251" frameX="0" frameY="-8" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0011" x="644" y="573" width="209" height="251" frameX="0" frameY="-8" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0012" x="644" y="573" width="209" height="251" frameX="0" frameY="-8" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0013" x="644" y="573" width="209" height="251" frameX="0" frameY="-8" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0014" x="644" y="573" width="209" height="251" frameX="0" frameY="-8" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0015" x="644" y="573" width="209" height="251" frameX="0" frameY="-8" frameWidth="209" frameHeight="259" />
+<SubTexture name="ThinkC Up0016" x="644" y="573" width="209" height="251" frameX="0" frameY="-8" frameWidth="209" frameHeight="259" />
+</TextureAtlas>

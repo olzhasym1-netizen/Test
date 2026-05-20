@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ThinkAlt.png">
+<SubTexture name="ThinkAlt Down0000" x="0" y="1331" width="232" height="275" frameX="0" frameY="-30" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0001" x="0" y="1331" width="232" height="275" frameX="0" frameY="-30" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0002" x="1367" y="922" width="231" height="285" frameX="-1" frameY="-20" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0003" x="1367" y="922" width="231" height="285" frameX="-1" frameY="-20" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0004" x="1367" y="309" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0005" x="1367" y="309" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0006" x="1367" y="309" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0007" x="1367" y="309" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0008" x="1367" y="309" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0009" x="1367" y="309" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0010" x="1367" y="309" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0011" x="1367" y="309" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0012" x="1367" y="309" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0013" x="1367" y="309" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0014" x="1367" y="309" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0015" x="1367" y="309" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Down0016" x="1367" y="309" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlt Idle0000" x="904" y="0" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Idle0001" x="904" y="0" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Idle0002" x="904" y="330" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Idle0003" x="904" y="330" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Idle0004" x="0" y="680" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Idle0005" x="0" y="680" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Idle0006" x="226" y="680" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Idle0007" x="226" y="680" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Idle0008" x="452" y="680" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Idle0009" x="452" y="680" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Idle0010" x="904" y="0" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Idle0011" x="904" y="0" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Idle0012" x="0" y="680" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Idle0013" x="0" y="680" width="226" height="330" frameX="-1" frameY="0" frameWidth="226" frameHeight="330" />
+<SubTexture name="ThinkAlt Left0000" x="0" y="344" width="231" height="336" frameX="-7" frameY="-1" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0001" x="0" y="344" width="231" height="336" frameX="-7" frameY="0" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0002" x="1130" y="0" width="237" height="323" frameX="-1" frameY="-14" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0003" x="1130" y="0" width="237" height="323" frameX="-1" frameY="-14" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0004" x="0" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0005" x="0" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0006" x="0" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0007" x="0" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0008" x="0" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0009" x="0" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0010" x="0" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0011" x="0" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0012" x="0" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0013" x="0" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0014" x="0" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0015" x="0" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Left0016" x="0" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlt Right0000" x="945" y="1010" width="237" height="309" frameX="-1" frameY="-10" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0001" x="945" y="1010" width="237" height="309" frameX="-1" frameY="-10" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0002" x="476" y="1010" width="234" height="312" frameX="-1" frameY="-7" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0003" x="476" y="1010" width="234" height="312" frameX="-1" frameY="-7" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0004" x="1130" y="646" width="226" height="318" frameX="0" frameY="0" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0005" x="1130" y="646" width="226" height="318" frameX="0" frameY="0" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0006" x="1130" y="646" width="226" height="318" frameX="0" frameY="0" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0007" x="1130" y="646" width="226" height="318" frameX="0" frameY="0" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0008" x="1130" y="646" width="226" height="318" frameX="0" frameY="0" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0009" x="1130" y="646" width="226" height="318" frameX="0" frameY="0" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0010" x="1130" y="646" width="226" height="318" frameX="0" frameY="0" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0011" x="1130" y="646" width="226" height="318" frameX="0" frameY="0" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0012" x="1130" y="646" width="226" height="318" frameX="0" frameY="0" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0013" x="1130" y="646" width="226" height="318" frameX="0" frameY="0" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0014" x="1130" y="646" width="226" height="318" frameX="0" frameY="0" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0015" x="1130" y="646" width="226" height="318" frameX="0" frameY="0" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Right0016" x="1130" y="646" width="226" height="318" frameX="0" frameY="0" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlt Up0000" x="0" y="0" width="226" height="344" frameX="0" frameY="-1" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0001" x="0" y="0" width="226" height="344" frameX="0" frameY="-1" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0002" x="452" y="0" width="226" height="338" frameX="0" frameY="-6" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0003" x="452" y="0" width="226" height="338" frameX="0" frameY="-6" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0004" x="678" y="680" width="226" height="330" frameX="0" frameY="-14" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0005" x="678" y="680" width="226" height="330" frameX="0" frameY="-14" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0006" x="678" y="680" width="226" height="330" frameX="0" frameY="-14" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0007" x="678" y="680" width="226" height="330" frameX="0" frameY="-14" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0008" x="678" y="680" width="226" height="330" frameX="0" frameY="-14" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0009" x="678" y="680" width="226" height="330" frameX="0" frameY="-14" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0010" x="678" y="680" width="226" height="330" frameX="0" frameY="-14" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0011" x="678" y="680" width="226" height="330" frameX="0" frameY="-14" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0012" x="678" y="680" width="226" height="330" frameX="0" frameY="-14" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0013" x="678" y="680" width="226" height="330" frameX="0" frameY="-14" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0014" x="678" y="680" width="226" height="330" frameX="0" frameY="-14" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0015" x="678" y="680" width="226" height="330" frameX="0" frameY="-14" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlt Up0016" x="678" y="680" width="226" height="330" frameX="0" frameY="-14" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Down0000" x="232" y="1331" width="232" height="275" frameX="0" frameY="-30" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0001" x="232" y="1331" width="232" height="275" frameX="0" frameY="-30" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0002" x="1604" y="0" width="231" height="285" frameX="-1" frameY="-20" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0003" x="1604" y="0" width="231" height="285" frameX="-1" frameY="-20" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0004" x="1367" y="615" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0005" x="1367" y="615" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0006" x="1367" y="615" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0007" x="1367" y="615" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0008" x="1367" y="615" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0009" x="1367" y="615" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0010" x="1367" y="615" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0011" x="1367" y="615" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0012" x="1367" y="615" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0013" x="1367" y="615" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0014" x="1367" y="615" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0015" x="1367" y="615" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Down0016" x="1367" y="615" width="226" height="306" frameX="-7" frameY="0" frameWidth="232" frameHeight="306" />
+<SubTexture name="ThinkAlteye Left0000" x="231" y="344" width="231" height="336" frameX="-7" frameY="-1" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0001" x="231" y="344" width="231" height="336" frameX="-7" frameY="-1" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0002" x="1130" y="323" width="237" height="323" frameX="-1" frameY="-14" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0003" x="1130" y="323" width="237" height="323" frameX="-1" frameY="-14" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0004" x="238" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0005" x="238" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0006" x="238" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0007" x="238" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0008" x="238" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0009" x="238" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0010" x="238" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0011" x="238" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0012" x="238" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0013" x="238" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0014" x="238" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0015" x="238" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Left0016" x="238" y="1010" width="238" height="320" frameX="0" frameY="-17" frameWidth="238" frameHeight="337" />
+<SubTexture name="ThinkAlteye Right 0000" x="1367" y="0" width="237" height="309" frameX="-1" frameY="-10" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0001" x="1367" y="0" width="237" height="309" frameX="-1" frameY="-10" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0002" x="710" y="1010" width="234" height="312" frameX="-1" frameY="-7" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0003" x="710" y="1010" width="234" height="312" frameX="-1" frameY="-7" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0004" x="904" y="680" width="226" height="318" frameX="0" frameY="-1" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0005" x="904" y="680" width="226" height="318" frameX="0" frameY="-1" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0006" x="904" y="680" width="226" height="318" frameX="0" frameY="-1" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0007" x="904" y="680" width="226" height="318" frameX="0" frameY="-1" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0008" x="904" y="680" width="226" height="318" frameX="0" frameY="-1" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0009" x="904" y="680" width="226" height="318" frameX="0" frameY="-1" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0010" x="904" y="680" width="226" height="318" frameX="0" frameY="-1" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0011" x="904" y="680" width="226" height="318" frameX="0" frameY="-1" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0012" x="904" y="680" width="226" height="318" frameX="0" frameY="-1" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0013" x="904" y="680" width="226" height="318" frameX="0" frameY="-1" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0014" x="904" y="680" width="226" height="318" frameX="0" frameY="-1" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0015" x="904" y="680" width="226" height="318" frameX="0" frameY="-1" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Right 0016" x="904" y="680" width="226" height="318" frameX="0" frameY="-1" frameWidth="238" frameHeight="318" />
+<SubTexture name="ThinkAlteye Up0000" x="226" y="0" width="226" height="343" frameX="0" frameY="-1" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0001" x="226" y="0" width="226" height="343" frameX="0" frameY="-1" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0002" x="678" y="0" width="226" height="337" frameX="0" frameY="-7" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0003" x="678" y="0" width="226" height="337" frameX="0" frameY="-7" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0004" x="462" y="344" width="226" height="330" frameX="0" frameY="-13" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0005" x="462" y="344" width="226" height="330" frameX="0" frameY="-13" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0006" x="462" y="344" width="226" height="330" frameX="0" frameY="-13" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0007" x="462" y="344" width="226" height="330" frameX="0" frameY="-13" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0008" x="462" y="344" width="226" height="330" frameX="0" frameY="-13" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0009" x="462" y="344" width="226" height="330" frameX="0" frameY="-13" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0010" x="462" y="344" width="226" height="330" frameX="0" frameY="-13" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0011" x="462" y="344" width="226" height="330" frameX="0" frameY="-13" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0012" x="462" y="344" width="226" height="330" frameX="0" frameY="-13" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0013" x="462" y="344" width="226" height="330" frameX="0" frameY="-13" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0014" x="462" y="344" width="226" height="330" frameX="0" frameY="-13" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0015" x="462" y="344" width="226" height="330" frameX="0" frameY="-13" frameWidth="226" frameHeight="344" />
+<SubTexture name="ThinkAlteye Up0016" x="462" y="344" width="226" height="330" frameX="0" frameY="-13" frameWidth="226" frameHeight="344" />
+</TextureAtlas>
