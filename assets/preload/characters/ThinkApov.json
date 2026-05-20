@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ThinkApov Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ThinkApov Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ThinkApov Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-94,
+				32
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ThinkApov Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ThinkApov Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ThinkApov",
+	"position": [
+		-1240,
+		280
+	],
+	"healthicon": "Eyes",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		84,
+		-116
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

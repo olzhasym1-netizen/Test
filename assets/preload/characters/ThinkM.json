@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ThinkM Idle"
+		},
+		{
+			"offsets": [
+				-17,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ThinkM Left"
+		},
+		{
+			"offsets": [
+				-30,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ThinkM Right"
+		},
+		{
+			"offsets": [
+				-24,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ThinkM Up"
+		},
+		{
+			"offsets": [
+				-24,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ThinkM Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ThinkM",
+	"position": [
+		-60,
+		-70
+	],
+	"healthicon": "Eyes",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		250,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-14
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Gun Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Gun Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				-29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Gun Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				174,
+				-128
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Gun Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				-19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Gun Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gun",
+	"position": [
+		-100,
+		840
+	],
+	"healthicon": "MarkAngry",
+	"flip_x": true,
+	"healthbar_colors": [
+		45,
+		0,
+		63
+	],
+	"camera_position": [
+		820,
+		-1330
+	],
+	"sing_duration": 6.1,
+	"scale": 4.5
+}

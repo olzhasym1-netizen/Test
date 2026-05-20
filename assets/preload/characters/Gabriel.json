@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Gabriel Idle"
+		},
+		{
+			"offsets": [
+				65,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gabriel Left"
+		},
+		{
+			"offsets": [
+				15,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gabriel Down"
+		},
+		{
+			"offsets": [
+				-5,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Gabriel Up"
+		},
+		{
+			"offsets": [
+				-32,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Gabriel Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gabriel",
+	"position": [
+		180,
+		30
+	],
+	"healthicon": "Gabriel",
+	"flip_x": false,
+	"healthbar_colors": [
+		76,
+		73,
+		90
+	],
+	"camera_position": [
+		-225,
+		-330
+	],
+	"sing_duration": 2.00000000000001,
+	"scale": 2.5
+}

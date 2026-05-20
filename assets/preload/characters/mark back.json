@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mark Back Idle"
+		},
+		{
+			"offsets": [
+				27,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mark Back Left"
+		},
+		{
+			"offsets": [
+				10,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mark Back Down"
+		},
+		{
+			"offsets": [
+				-42,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mark Back Up"
+		},
+		{
+			"offsets": [
+				-33,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mark Back Right"
+		},
+		{
+			"offsets": [
+				-1,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "oh fuck",
+			"indices": [],
+			"name": "Mark Back Ani"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mark Back",
+	"position": [
+		-1160,
+		530
+	],
+	"healthicon": "Mark",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-380,
+		-480
+	],
+	"sing_duration": 5,
+	"scale": 2
+}

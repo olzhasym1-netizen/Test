@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ThinkC Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ThinkC Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ThinkC Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ThinkC Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ThinkC Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				98
+			],
+			"anim": "Freakout",
+			"fps": 24,
+			"name": "Freakout",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-1
+			],
+			"anim": "Risk",
+			"fps": 24,
+			"name": "Risk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ThinkC",
+	"position": [
+		50,
+		100
+	],
+	"healthicon": "Eyes",
+	"flip_x": true,
+	"healthbar_colors": [
+		22,
+		22,
+		22
+	],
+	"camera_position": [
+		20,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

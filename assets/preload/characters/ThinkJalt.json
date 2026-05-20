@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ThinkJalt Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ThinkJalt Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ThinkJalt Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ThinkJalt Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ThinkJalt Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ThinkJalt",
+	"position": [
+		-130,
+		-90
+	],
+	"healthicon": "Eyes",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		282,
+		86
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

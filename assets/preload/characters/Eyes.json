@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Eyes Idle"
+		},
+		{
+			"offsets": [
+				-57,
+				202
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Eyes Up"
+		},
+		{
+			"offsets": [
+				270,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Eyes Left"
+		},
+		{
+			"offsets": [
+				-10,
+				-164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Eyes Down"
+		},
+		{
+			"offsets": [
+				-219,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Eyes Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Eyes",
+	"position": [
+		760,
+		-90
+	],
+	"healthicon": "Eyes",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-440,
+		410
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

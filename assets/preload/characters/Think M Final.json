@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MarkFront Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MarkFront Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MarkFront Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				46
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MarkFront Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-48
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MarkFront Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Think M Final",
+	"position": [
+		360,
+		260
+	],
+	"healthicon": "Eyes",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-240,
+		-261
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

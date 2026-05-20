@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Gift Alt Idle"
+		},
+		{
+			"offsets": [
+				-345,
+				655
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Gift Alt Up"
+		},
+		{
+			"offsets": [
+				204,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gift Alt Left"
+		},
+		{
+			"offsets": [
+				20,
+				-232
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gift Alt Down"
+		},
+		{
+			"offsets": [
+				-253,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Gift Alt Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gift Alt",
+	"position": [
+		1420,
+		-30
+	],
+	"healthicon": "Gift",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		0,
+		63
+	],
+	"camera_position": [
+		-790,
+		-250
+	],
+	"sing_duration": 6.1,
+	"scale": 2.2
+}

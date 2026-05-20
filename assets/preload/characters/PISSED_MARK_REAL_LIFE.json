@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				178,
+				-229
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Angry Mark Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				-260
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Angry Mark Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-160
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Angry Mark Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-224
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Angry Mark Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				144,
+				-311
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Angry Mark Down"
+		},
+		{
+			"offsets": [
+				130,
+				-213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Mark Pissed",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "Mark Alt",
+	"flip_x": true,
+	"healthbar_colors": [
+		76,
+		76,
+		76
+	],
+	"camera_position": [
+		270,
+		-60
+	],
+	"sing_duration": 2.00000000000001,
+	"scale": 1.3
+}

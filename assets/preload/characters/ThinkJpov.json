@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-26,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ThinkJpov Idle"
+		},
+		{
+			"offsets": [
+				31,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ThinkJpov Left"
+		},
+		{
+			"offsets": [
+				-88,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ThinkJpov Right"
+		},
+		{
+			"offsets": [
+				-42,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ThinkJpov Up"
+		},
+		{
+			"offsets": [
+				-37,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ThinkJpov Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ThinkJpov",
+	"position": [
+		1800,
+		90
+	],
+	"healthicon": "Eyes",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		282,
+		86
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

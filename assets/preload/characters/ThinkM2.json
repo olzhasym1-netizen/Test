@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ThinkM2 Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ThinkM2 Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ThinkM2 Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ThinkM2 Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ThinkM2 Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				9
+			],
+			"anim": "Yell",
+			"fps": 24,
+			"name": "ThinkM2 Yell",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ThinkM2",
+	"position": [
+		210,
+		70
+	],
+	"healthicon": "Eyes",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		6,
+		28
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

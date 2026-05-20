@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				-236
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mark Armed Idle"
+		},
+		{
+			"offsets": [
+				61,
+				-266
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mark Armed Left"
+		},
+		{
+			"offsets": [
+				-41,
+				-192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mark Armed Up"
+		},
+		{
+			"offsets": [
+				-20,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mark Armed Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-294
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mark Armed Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mark Armed",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "Mark",
+	"flip_x": true,
+	"healthbar_colors": [
+		76,
+		76,
+		76
+	],
+	"camera_position": [
+		330,
+		-30
+	],
+	"sing_duration": 2.00000000000001,
+	"scale": 1.3
+}

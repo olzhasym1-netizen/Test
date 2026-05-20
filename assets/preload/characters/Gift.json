@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-11
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Gift Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				255
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Gift Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				284,
+				-71
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Gift Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-79
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Gift Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Gift Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gift",
+	"position": [
+		1180,
+		40
+	],
+	"healthicon": "Gift",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		0,
+		63
+	],
+	"camera_position": [
+		-550,
+		-320
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

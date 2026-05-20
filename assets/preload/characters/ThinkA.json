@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ThinkA Idle"
+		},
+		{
+			"offsets": [
+				-17,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ThinkA Left"
+		},
+		{
+			"offsets": [
+				-38,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ThinkA Right"
+		},
+		{
+			"offsets": [
+				-28,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ThinkA Up"
+		},
+		{
+			"offsets": [
+				-24,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ThinkA Down"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "BPS",
+			"indices": [],
+			"name": "welcome"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ThinkA",
+	"position": [
+		30,
+		80
+	],
+	"healthicon": "Eyes",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		134,
+		-96
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}
